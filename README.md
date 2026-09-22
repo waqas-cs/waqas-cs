@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Full Stack Developer / E-Commerce Specialist<br>👯 I’m looking to collaborate on Next.js and Nest.js Projects<br>🤝 I’m looking for help with learning a new technology, improving my skills<br>🌱 I’m always learning and exploring new technologies <br>💬 Ask me about React.js, Next.js, Node.js, Nest.js<br>⚡ Fun fact - My favorite debugging technique? Adding console.log(' ') everywhere!
+🔭 I’m currently working as a Full Stack Developer / E-Commerce Specialist<br>👯 I’m looking to collaborate on Next.js, Nest.js, and AI Projects<br>🤝 I’m looking for help with learning a new technology, improving my skills<br>🌱 I’m always learning and exploring new technologies <br>💬 Ask me about React.js, Next.js, Node.js, Express.js, Nest.js, MongoDB, SQL, MySQL <br>⚡ Fun fact - My favorite debugging technique? Adding console.log(' ') everywhere!
 
 
 ## 🌐 Socials:
